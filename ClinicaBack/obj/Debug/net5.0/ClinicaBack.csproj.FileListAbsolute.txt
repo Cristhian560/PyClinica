@@ -1,0 +1,12 @@
+C:\Users\Cristhian\source\repos\ClinicaBack\bin\Debug\net5.0\ClinicaBack.deps.json
+C:\Users\Cristhian\source\repos\ClinicaBack\bin\Debug\net5.0\ClinicaBack.dll
+C:\Users\Cristhian\source\repos\ClinicaBack\bin\Debug\net5.0\ref\ClinicaBack.dll
+C:\Users\Cristhian\source\repos\ClinicaBack\bin\Debug\net5.0\ClinicaBack.pdb
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.csproj.AssemblyReference.cache
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.AssemblyInfoInputs.cache
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.AssemblyInfo.cs
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.dll
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ref\ClinicaBack.dll
+C:\Users\Cristhian\source\repos\ClinicaBack\obj\Debug\net5.0\ClinicaBack.pdb

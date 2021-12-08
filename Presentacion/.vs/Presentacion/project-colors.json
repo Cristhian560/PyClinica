@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36471613-3c29-4c4c-9d14-098a1082b104": {
+      "ProjectGuid": "36471613-3c29-4c4c-9d14-098a1082b104",
+      "DisplayName": "Presentacion",
+      "ColorIndex": 0
+    },
+    "21994318-885a-4c59-a844-f416658ed728": {
+      "ProjectGuid": "21994318-885a-4c59-a844-f416658ed728",
+      "DisplayName": "ClinicaBack",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
